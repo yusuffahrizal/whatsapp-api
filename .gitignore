@@ -1,0 +1,4 @@
+.wweb*
+node_modules
+
+.env
